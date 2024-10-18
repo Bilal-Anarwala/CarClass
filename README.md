@@ -32,6 +32,6 @@ This project demonstrates several key OOP concepts:
 7. **Constructor Chaining**: The Specs class constructor calls the superclass constructor using `super()`.
 
 
-##Note
+# Note
 
 I do NOT condone any sort of car racing especially on public roads. Leave that to the track/dragstrip :)
