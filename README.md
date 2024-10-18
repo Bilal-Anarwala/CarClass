@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Car Racing Simulation project is a Java-based application designed to demonstrate and practice Object-Oriented Programming (OOP) concepts. It simulates a basic car racing system where users can select cars with different specifications and race them against each other. This project serves as an excellent example of how OOP principles can be applied in a fun and interactive scenario and it combines my love for coding and cars. 
+This Car Racing Simulation project is a small project that I did on my own to hone in on my Object Oriented Programming skills. It simulates a basic car racing system where users can select cars with different specifications and race them against each other. This project serves as an excellent example of how OOP principles can be applied in a fun and interactive scenario and it combines my passion for coding and cars. 
 
 ## Project Structure
 
