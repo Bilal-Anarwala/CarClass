@@ -34,4 +34,4 @@ This project demonstrates several key OOP concepts:
 
 # Note
 
-I do NOT condone any sort of car racing especially on public roads. Leave that to the track/dragstrip :)
+I do NOT condone any sort of car racing especially on public roads. Save that for the track/dragstrip :)
